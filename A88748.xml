@@ -1,0 +1,243 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The last will and testament of Father Peters. As it was found quilted into my Lord Chancellors cap, with a letter directed to his lordship, &amp;c. and his prayer to the blessed virgin of Loretto</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88748</idno>
+            <idno type="STC">Wing L518B</idno>
+            <idno type="STC">ESTC R231031</idno>
+            <idno type="EEBO-CITATION">99896642</idno>
+            <idno type="PROQUEST">99896642</idno>
+            <idno type="VID">134690</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88748)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 134690)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2430:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The last will and testament of Father Peters. As it was found quilted into my Lord Chancellors cap, with a letter directed to his lordship, &amp;c. and his prayer to the blessed virgin of Loretto</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing (CD-ROM edition).</note>
+                  <note>A satire.</note>
+                  <note>Reproduction of original in the Newberry Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Petre, Edward, 1631-1699 --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:134690:1" rendition="simple:additions"/>
+            <head>
+               <hi>The laſt Will and Teſtament of Father</hi> Peters: As it was found Quilted into My Lord Chancellors Cap, with a Letter directed to his Lordſhip, <hi>&amp;c.</hi> and his Prayer to the Bleſſed Virgin of <hi>Loretto.</hi>
+            </head>
+            <floatingText type="letter">
+               <body>
+                  <opener>
+                     <salute>Meritorious Sir,</salute>
+                  </opener>
+                  <p>UUnderſtanding that you were to be my Succeſſor in theſe Houſes of Clay, I thought it would not be amiſs to leave you my Exceutor, who next my Reverence have done the King the beſt ſervice in the Na<g ref="char:EOLhyphen"/>tion, and conſequently muſt be no Stranger nor Enemy to Fa. <hi>Peters.</hi> I have now laid a ſide the Sword of the Spirit and betaken my ſelf to an Arm of Fleſh, and having converted my Apoſtolical Robe into the Whore of <hi>Babi<g ref="char:EOLhyphen"/>lons die,</hi> am reſolv'd to viſit Fa. <hi>Le Chaiſe,</hi> and ſend over the K. of <hi>France</hi> with 30000 Men. I need not put you in mind of the terrible blow that ſhall come and none ſee who hurts them, nor any other private Juggle for having made room for your admittance to his Majeſties ear; there's nothing can fall betwixt the Cup and the Lip. It would be ſuperfluous to tell you that innumerable Prayers and Indulgences for you and your Poſterity after you, are together with this my Sanctuary, conferr'd upon you; I wiſh <hi>England</hi> do not grow too hot for you in a little time, However, <hi>I go to prepare a place for you.</hi> Be not troubled, your Merits and my Beads will never let you lie long in <hi>Pur<g ref="char:EOLhyphen"/>gatory,</hi> ſhould all hopes fail, and therefore be ſecure of a future Happineſs; be of good Courage and your Faith will ſave you. This I am ſure of, and all the World knows it, that you have made to your ſelf Friends of the Mammon of Unrighteouſneſs, ſo that you are like to feed well as long as you live in this World, and as for the other let not one melancholy thought make you ſoak your Guts one Bowl the leſs, for ile warrant you my Works of Supererro<g ref="char:EOLhyphen"/>gation helping out your Defects, I ſhall have nothing too much, nor you too little to bribe admittance into <hi>Paradice;</hi> St. <hi>Peter</hi> and I were Old Cronys, and as long as I have but an evidence of his own hand writing to produce, he can<g ref="char:EOLhyphen"/>not for ſhame but out of good mannets let Me and my Friend in. However, Go on Bravely, Thou Son of Perdition, and fill up the meaſure of thy Iniqui<g ref="char:EOLhyphen"/>ty, till thou grow ripe for Tranſlation and <hi>Roman Calander.</hi> Divine Bard, and Reverend Impoſtor, into thy Hands alone I commit my <hi>Engliſh</hi> Spirit, and my laſt Will and Teſtament to be diſpos'd of according to my appointment, to<g ref="char:EOLhyphen"/>gether with an Inventory of what goods I have left in thoſe Lodgings for your uſe; and a private Prayer to be ſaid over 17 times a day, and the Bleſſed Virgin hear thee in the day when thou calleſt upon her, and make the works of thy hand proſperous, and thy Counſels like <hi>Hamons,</hi> or good <hi>Achitophels.</hi>
+                  </p>
+                  <closer>
+                     <signed>
+                        <hi>Thine Eternally,</hi> PETERS</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb n="2" facs="tcp:134690:2"/>
+            <p>I Give my Soul into the Hands of the B. <hi>Gabriel,</hi> to be tranſlated into Pur<g ref="char:EOLhyphen"/>gatory; and there after two turns of the Spit, and one winding up of the Jack, which is enough for the Purification of any <hi>Jeſuit,</hi> and from thence to carry it to the Lap of his Miſtriſs the B. <hi>Virgin</hi> of <hi>Loretto,</hi> who I ſerve, and whoſe I am.</p>
+            <p>Let my Heart by dried and beaten to Powder, and ſo divided into ſeveral Drams, to be drunk by all the <hi>new Converts</hi> in <hi>England,</hi> in a Glaſs of a <hi>Here<g ref="char:EOLhyphen"/>ticks</hi> warm Blood.</p>
+            <p>Let the K. Q. and Pr. of <hi>W.</hi> take a Mornings-draught of my Spleen, pre<g ref="char:EOLhyphen"/>pared after the ſame manner as my Heart by his H.</p>
+            <p>My Gall ſhould be at the <hi>French</hi> Kings ſervice, but they have more need of it in <hi>England,</hi> therefore let that fall to <hi>Sunderland</hi>'s ſhare.</p>
+            <p>My Brains have overgrown me this laſt three or four Years, and there<g ref="char:EOLhyphen"/>fore ſhall be divided amongſt pluralities, <hi>Peterborough, Huntington,</hi> Biſhop <hi>Che<g ref="char:EOLhyphen"/>ſter, Smith,</hi> and <hi>Chapman.</hi>
+            </p>
+            <p>
+               <hi>Cheſter,</hi> not content with my Brains, ſnaps at my Kidnies, by St. <hi>Francis</hi> he's the likelieſt Man to make good uſe of them, let him take them.</p>
+            <p>Let my Scull be carried to S. <hi>Omers,</hi> and Tipt with Silver, to be drunk in upon the Solemn Day that is Conſecrated to my Name: and being filled with Blood, upon the Admiſſion of every <hi>Novice,</hi> to be turned off by all the Bro<g ref="char:EOLhyphen"/>therhood, at the time of the Adminiſtration of the Holy Sacrament.</p>
+            <p>My wanton Eyes I bequeath to the <hi>Nuns</hi> at St. <hi>Bridgets,</hi> and to thoſe Objects of Charity that the Kings Alms were beſtowed upon.</p>
+            <p>My Tongue, to the Earl of <hi>Winchelſea,</hi> becauſe he has ſo little.</p>
+            <p>My Ears, to <hi>Penn, Ferguſon,</hi> and the reſt of that Tribe; or <hi>Titus Oates,</hi> that couragious knaw-poſt.</p>
+            <p>My Noſe, to the <hi>P.O.</hi> who has ſcratched his out of <hi>Scipio</hi>'s Grave.</p>
+            <p>My Teeth, to <hi>Harry Hills</hi> for Beads; or, to poliſh the <hi>Roſary;</hi> or, inſtead of it, <hi>Aretine, Tully</hi> and <hi>Octavia, Rochester, School of Venice,</hi> &amp;c.</p>
+            <p>My Throat, to the Earl of <hi>Eſſex,</hi> to be ſhaved.</p>
+            <p>My Breaſts, to the Q. who loſt her own with longing for a Box of the Ear of the <hi>Princeſs,</hi> and Sauſages made of <hi>Hereticks</hi> Dripping.</p>
+            <p>My Iſſues, to Queen <hi>Dowager,</hi> who they ſay has 20; ten to my knowledge.</p>
+            <p>My Inſtrument of propagation, otherwiſe called the Carnaledge, part to my Lady <hi>Salisbary,</hi> or <hi>Stonehorſe Spencer.</hi>
+            </p>
+            <p>My Prolifick Juice, to the Q. and my Bleſſing, together with all the Hairs of my — to make a Perriwig for my Son —</p>
+            <p>The ſtrength of my Back, to the K. together with all my Merits; ſome one will be apt to ſay, Your merit, quoth he, That's a Halter. Good Mr. K. if you'll put up the affront, I will, or elſe my intent being well directed I am clear.</p>
+            <p>My A— to the great Button-maker of <hi>England.</hi>
+            </p>
+            <p>My Deputy Hair and my Aldermans Hat, to <hi>Alſop,</hi> and the reſt of the gang,</p>
+            <pb n="3" facs="tcp:134690:2"/>
+            <p>My Razor let <hi>Jeoffreys</hi> ſhave himſelf with, and cut his Throat when he has done. My Breeches I recommend to the Q. uſe, to get her with C—with<g ref="char:EOLhyphen"/>out the help of a Man; and the ſmell of my Stockings to make her fair. How beautiful upon the Mountains, <hi>&amp;c.</hi> Let my Corps be buried in the Room where Sir <hi>Edmund Bury Godfry</hi> was murdered, to fright his bodily appearance, and I'le to the Devil to choak his Ghoſt. 20000 <abbr>
+                  <hi>l.</hi>
+               </abbr> for Swords, Knives, Powder, Fire<g ref="char:EOLhyphen"/>balls, <hi>&amp;c.</hi> 10000 for him that Stabs the <hi>P. O.</hi> 2000 for the <hi>French</hi> Dragoons, to be paid by F. <hi>La Chaiſe,</hi> for their good Service. 100 for him that Kills a Here<g ref="char:EOLhyphen"/>tick: 1000 for the Col. of St. <hi>Ignatio,</hi> to invent and provide all manner of Tor<g ref="char:EOLhyphen"/>tures. 2000 to the Chappel of the B. V. of <hi>Loretto,</hi> to be converted into a Gold<g ref="char:EOLhyphen"/>en Chamber Pot. All this laſt to be paid by the K. as ſoon as I have ſent him Money from <hi>France.</hi>
+            </p>
+            <list>
+               <head>An Inventory of the Goods that I left in my Lodgings, to the Lord Chancellor, with their value ſet upon them.</head>
+               <item>1. A Piece of <hi>Adam</hi>'s Figg-Leaf-Apron, together with an Apple of the Tree of Knowledge of Good and Evil. 330000 <abbr>
+                     <hi>l.</hi>
+                  </abbr>
+               </item>
+               <item>2. A Frog, a Louſe, and a Locuſt, that was upon <hi>Pharaohs</hi> Land, with <hi>Joſephs</hi> Coat, <hi>Sampſons</hi> Jaw-bone, and half <hi>Gideons</hi> Fleece. 50000 <abbr>
+                     <hi>l.</hi>
+                  </abbr>
+               </item>
+               <item>3. The Hoof of <hi>Balaams</hi> Aſs, the Dart that kill'd <hi>Abſalom,</hi> together with the Stone that ſlew <hi>Goliah,</hi> and piece of <hi>Bathſhehas</hi> Smock, pris'd at 1000 <abbr>
+                     <hi>l.</hi>
+                  </abbr>
+               </item>
+               <item>4. Three Chairs that <hi>Solomon</hi> ſate in at Study, together with his black Fur Cap; and a Table that St. <hi>Paul</hi> made uſe of when he wrote his Epiſtle to the <hi>Hebrews.</hi> 2000.</item>
+               <item>5. The Parchments that the ſame Apoſtle ſent for by <hi>Timothy,</hi> with the Cloak; St. <hi>Agnas</hi>'s Candleſtick, and St. <hi>Winnefrids</hi> Ink-horn 3000.</item>
+               <item>6. St. <hi>Francis</hi>'s Clock; St. <hi>Dennis</hi>'s Fire-ſhovel and Tongs; a broken Cham<g ref="char:EOLhyphen"/>ber-pot of the B. Virgin of <hi>Loretto:</hi> and a little Sawſe pan for the P. <hi>W.</hi> that <hi>Zacharias</hi> bought for his Son <hi>John.</hi> 30000 <abbr>
+                     <hi>l.</hi>
+                  </abbr>
+               </item>
+               <item>7. St. <hi>Ignatius</hi>'s Warming-pan; the Nail of <hi>Loyola</hi>'s little Toe; Pope <hi>Joans</hi> Placket; and <hi>Bellarmines</hi> Cloſe-ſtool. 10000 <abbr>
+                     <hi>l.</hi>
+                  </abbr>
+               </item>
+               <item>8. A Sir-reverence of St. <hi>Clemens</hi> in a Silver box; St. <hi>Ambroſe</hi>'s Gliſter-pipe; St. <hi>Auſtin</hi>'s Almanack; valued at 1000 <abbr>
+                     <hi>l.</hi>
+                  </abbr>
+               </item>
+               <item>9. St. <hi>Cyprian</hi>'s Baſon; <hi>Cicily</hi>'s Looking-glaſs, and Marmalade-pot: <hi>Coleman</hi>'s Halter; St. <hi>Katharines</hi> Tower and Curling-pin, with her Waſh to beautifie the Face, which I have uſed this many years, and it waſts no more than the Wi<g ref="char:EOLhyphen"/>dows Cruiſe which I alſo have. 20000 <abbr>
+                     <hi>l.</hi>
+                  </abbr>
+               </item>
+               <item>10. Some of <hi>Pauls</hi> faſting ſpittle in a Bottle, ſeal'd with his Coat of Arms, good for ſore Eyes, and to reſtore even the Blind; a Nail of <hi>Timothys</hi> Shoe; Q. <hi>Marys</hi> Ruff; and St. <hi>Margarets</hi> Sciſſars. 3000 <abbr>
+                     <hi>l.</hi>
+                  </abbr>
+               </item>
+               <item>11. A board of the Ark; a feather of <hi>Noahs</hi> Dove; a grain of <hi>Lots</hi> Wiſe, took from the Pillar of Salt; and the paper that ſaluted <hi>Lyaſs</hi> B — 7000.</item>
+               <item>12. The Dirt-pyes that the V. M. made when ſhe was a Child; ſome of <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Dung that fell into <hi>Tobits</hi> Eyes; the Horns of <hi>Nebuchadnezzar</hi> when turn'd <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Caſe of Needl<gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </item>
+               <pb facs="tcp:134690:3"/>
+               <item>
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>. The Nails that held our Saviour to the Croſs; the Spear that pierced ſide; ſome of the Water and Blood that came out; the Inſcription that was over his Head, in <hi>Pilates</hi> own Hand Writing. 6000 <abbr>
+                     <hi>l.</hi>
+                  </abbr>
+               </item>
+               <item>14. <hi>Judas</hi>'s bag full of Bread and Cheeſe; the piece of money that was taken out of the Fiſhes mouth for Tribute; ſome of the Water that was made Wine. 7000 <abbr>
+                     <hi>l.</hi>
+                  </abbr>
+               </item>
+               <item>15. A piece of our B. S. Cradle; the Manger; the Key of St. <hi>Peters</hi> back door into Heaven; his Slippers; the Bill, Spurs, and Comb of the Cock that Crow'd when he denied his Maſter. 4000 <abbr>
+                     <hi>l.</hi>
+                  </abbr>
+               </item>
+               <item>16. A part of the Nipple of St. <hi>Agatha;</hi> St. <hi>Margarets</hi> piſs burnt Garter; the Table-Cloth, Napkins and Knives that were uſed in the Inſtitution of the Lords Supper; the bed that Pope <hi>Joan</hi> pigg'd in; Pope <hi>Boniface</hi>'s Cod-piſs buttons, and our L. prayer, in our S. own hand writing. 9000 <abbr>
+                     <hi>l.</hi>
+                  </abbr>
+               </item>
+               <item>17. A drop of the B. V. Milk which ſhe gave to St. <hi>Biaſio,</hi> when he thirſted in the Wilderneſs.</item>
+            </list>
+            <div type="prayer">
+               <head>A Form of Private Prayer uſed by Father <hi>Peters.</hi>
+               </head>
+               <p>
+                  <hi>O</hi> Bleſſed <hi>Mary,</hi> Mother of God, Queen of Heaven, Saviour of the World, Giver of Salvation, the Almighty Lady, Authour of our Redemption, I beſeech thee to hear me. Bow the Heavens, and come down from that thy Throne, to hear the Petition of thy Hunble Suppliant. By our Saviours Birth and Baptiſm, by the Manger in which he was laid, by the Gifts the Wiſe men brought, by the Star that appear<g ref="char:EOLhyphen"/>ed in the <hi>Eaſt,</hi> by the Swadling Cloaths he wore, by the Milk he ſuck'd, by the Tears he ſhed in his Agony, <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Kiſs given him by <hi>Judas,</hi> by the Halter with which <hi>Judas</hi> Hanged himſelf, and the Bag that he had to bear; by the Lance that pierced our Saviours ſide, by the Water and Blood that came out, by the Tomb in which he was laid, by the Spices with which he was Embalm'd, by the Oyntment with which he was Anointed unto his Burial, by the Croſs on which he ſuffered, by the two Thieves that together dyed with him, by the Quire of Angels at his Birth, and the Quire of Angels that were his Attendance at his Reſuarection, by the Superſcription of <hi>Piiate,</hi> by the High Prieſts Ear that was cut off, by the Name of Woman, with which Chriſt pleas'd to ſignify thy pre-eminence over all Women, <hi>&amp;c.</hi> I beſeech thee to hear me. Let not the Scep<g ref="char:EOLhyphen"/>ter depart from <hi>Analek,</hi> nor a Law-giver from the <hi>Jebuſites;</hi> nor a Cardinal from <hi>England,</hi> nor a <hi>Peters</hi> from the Court, ſo long as the Sun and Moon endureth. Pray for us, O Bleſſed Virgin, that all our Deſigns and Contrivances may have good Succeſs; and Command thy Son to be ſo careful of the good of his Society, that it may be emplanted in all the Nations of the World; and particularly in this wherein we live. Let the K. hearken to me, the Charmer, who Charm Wiſely; nor be as a Deaf Adder that will not hear; nor Stiff-necked as his People, that will not Obey. Make him reſolute in his Religion, and true to the Cauſe which be has promis'd to maintain; and let the abundance of his Merits waſh away the many Religious Vows and Oaths which he has made and broke, for the Honour of the <hi>Roman</hi> Church. We are thy People, and the Sheep of thy Paſture; if thou hadſt not been for us, we had been ſwallowed up quick in this Heretical, Damnable, Prejudic'd Kingdom, when they were ſo wrathfully diſpleas'd at us; but thou haſt fought for us, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd defended us. O go on to perfect this work of thine, which thou haſt in ſome meaſure begun, and make us all one Sheepfold under one Shepherdeſs, the Bleſſed <hi>Mary.</hi> Make <hi>Peter</hi> open to all that will open the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oors of their Hearts to thee; and Damn all thoſe Eternally that ſhall preſume to refuſe it, for thy Name ſake, admine, the Lord Chancellours, <hi>Salisburys, Cheſters, Peterboroughs</hi> Merit, <hi>&amp;c. Amen.</hi>
+               </p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
